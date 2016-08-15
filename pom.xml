@@ -72,5 +72,9 @@
 
 	<modules>
 		<module>elk-web</module>
+		<module>elk-common-parent</module>
+		<module>elk-facade-provider</module>
+		<module>elk-service-provider</module>
+		<module>elk-api</module>
 	</modules>
 </project>
